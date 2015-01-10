@@ -325,10 +325,16 @@ section {
     padding: 100px 0;
 }
 
+section h1.section-heading {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 4em;
+}
+
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
-    font-size: 40px;
+    font-size: 3em;
 }
 
 section h3.section-subheading {
