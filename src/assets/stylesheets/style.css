@@ -265,9 +265,9 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    /*background-image: url(/assets/images/header-bg.jpg);*/
-    /*background-position: center center;*/
-    /*background-repeat: none;*/
+    background-image: url(/assets/images/header-bg.jpg);
+    background-position: center center;
+    background-repeat: none;
     background-color: #333;
     -webkit-background-size: cover;
     -moz-background-size: cover;
